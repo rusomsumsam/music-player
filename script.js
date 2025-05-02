@@ -1,9 +1,9 @@
 const songs = [
-    { title: "Let It Go", file: "songs/let-it-go.mp3", cover: "covers/let-it-go.jpg" },
-    { title: "Believer", file: "songs/believer.mp3", cover: "covers/believer.jpg" },
-    { title: "Unstoppable", file: "songs/unstoppable.mp3", cover: "covers/unstoppable.jpg" },
-    { title: "Dandelions", file: "songs/dandelions.mp3", cover: "covers/dandelions.jpg" },
-    { title: "The Night We Met", file: "songs/the-night_we_met.mp3", cover: "covers/the-night_we_met.jpg" }
+    { title: "Let It Go", file: "songs/let-it-go.mp3", cover: "covers/let-it-go.webp" },
+    { title: "Believer", file: "songs/believer.mp3", cover: "covers/believer.webp" },
+    { title: "Unstoppable", file: "songs/unstoppable.mp3", cover: "covers/unstoppable.webp" },
+    { title: "Dandelions", file: "songs/dandelions.mp3", cover: "covers/dandelions.webp" },
+    { title: "The Night We Met", file: "songs/the-night_we_met.mp3", cover: "covers/the-night_we_met.webp" }
 ];
 
 let songIndex = 0;
