@@ -36,7 +36,7 @@ body {
 }
 
 .app {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgb(0, 0, 0);
     backdrop-filter: blur(20px);
     padding: 40px 30px;
     border-radius: 20px;
